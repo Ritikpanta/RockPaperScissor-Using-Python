@@ -1,3 +1,4 @@
+#just in learning phase 
 import random 
 print("")
 print("Welcome to the code of the rock paper scissor ")
@@ -17,5 +18,5 @@ if user ==  computer :
 else: 
     print("Write right input you dumbhead")
 
-    
+
 
